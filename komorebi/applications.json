@@ -2409,6 +2409,16 @@
         "id": "VISIOA",
         "matching_strategy": "Equals"
       }
-    ]
+    ],
+
+    "WezTerm": {
+      "tray_and_multi_window": [
+        {
+          "kind": "Exe",
+          "id": "msrdc.exe",
+          "matching_strategy": "Equals"
+        }
+      ]
+    }
   }
 }

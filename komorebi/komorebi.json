@@ -3,8 +3,8 @@
   "app_specific_configuration_path": "$Env:KOMOREBI_CONFIG_HOME/applications.json",
   "window_hiding_behaviour": "Cloak",
   "cross_monitor_move_behaviour": "Insert",
-  "default_workspace_padding": 20,
-  "default_container_padding": 20,
+  "default_workspace_padding": 0,
+  "default_container_padding": 0,
   "border": true,
   "border_width": 8,
   "border_offset": -1,
@@ -25,31 +25,31 @@
     {
       "workspaces": [
         {
-          "name": "I",
+          "name": "1",
           "layout": "BSP"
         },
         {
-          "name": "II",
+          "name": "2",
           "layout": "VerticalStack"
         },
         {
-          "name": "III",
+          "name": "3",
           "layout": "HorizontalStack"
         },
         {
-          "name": "IV",
+          "name": "4",
           "layout": "UltrawideVerticalStack"
         },
         {
-          "name": "V",
+          "name": "5",
           "layout": "Rows"
         },
         {
-          "name": "VI",
+          "name": "6",
           "layout": "Grid"
         },
         {
-          "name": "VII",
+          "name": "7",
           "layout": "RightMainVerticalStack"
         }
       ]

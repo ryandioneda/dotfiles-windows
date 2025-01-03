@@ -40,31 +40,31 @@
     },
     {
       "Storage": {
-        "enable": true
+        "enable": false
       }
     },
     {
       "Memory": {
-        "enable": true
+        "enable": false
       }
     },
     {
       "Network": {
         "enable": true,
-        "show_total_data_transmitted": true,
-        "show_network_activity": true
+        "show_total_data_transmitted": false,
+        "show_network_activity": false
       }
     },
     {
       "Date": {
         "enable": true,
-        "format": "DayDateMonthYear"
+        "format": "DateMonthYear"
       }
     },
     {
       "Time": {
         "enable": true,
-        "format": "TwentyFourHour"
+        "format": "TwelveHour"
       }
     },
     {
